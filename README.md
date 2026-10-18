@@ -71,7 +71,7 @@ Source: MovieLens ([GroupLens](https://grouplens.org/datasets/movielens/)). The 
 
 ## Author
 
-[Your name] · [university / unit, optional] · [contact or GitHub profile]
+Anh Khoa Mai · La Trobe University Student · maverik7124@outlook.com
 
 ## License and data use
 
