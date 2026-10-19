@@ -12,7 +12,7 @@ Data wrangling and exploratory analysis of the MovieLens dataset in Python. Six 
 
 ## Data
 
-Source: MovieLens ([GroupLens](https://grouplens.org/datasets/movielens/)). The raw CSV files are not included in this repository; download them from the source or your course site and place them in `data/`.
+Source: MovieLens ([GroupLens](https://grouplens.org/datasets/movielens/)). The raw CSV files are not included in this repository; The analysis uses a curated subset of the MovieLens 25M dataset, prepared and provided in the /data folder. This subset is smaller than the full public MovieLens dataset (25 million ratings, 62,000 movies) so that it can be comfortably processed in Google Colab without specialized hardware. 
 
 | File | Rows | What one row is |
 |---|---|---|
