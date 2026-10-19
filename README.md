@@ -75,4 +75,4 @@ Anh Khoa Mai · La Trobe University Student · maverik7124@outlook.com
 
 ## License and data use
 
-[Choose a licence for your code, for example MIT.] The MovieLens data remains subject to the GroupLens usage terms and is not redistributed here.
+MovieLens dataset is a public movie recommendation dataset containing ratings, tags, movie metadata, and lookup tables. The dataset is organized across multiple linked files, making it suitable for data integration, cleaning, transformation, and exploratory analysis. 
