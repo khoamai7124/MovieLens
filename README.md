@@ -51,8 +51,8 @@ Source: MovieLens ([GroupLens](https://grouplens.org/datasets/movielens/)). The 
 ├── MovieLens_Analysis.ipynb     # cleaning, merging and analysis
 ├── report/
 │   └── MovieLens_Report.docx    # written report
-├── data/                        # raw CSVs go here (not committed)
-├── figures/                     # exported charts (optional)
+├── data/                        # raw CSVs go here
+├── figures/                     # exported charts
 └── requirements.txt
 ```
 
